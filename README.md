@@ -1,6 +1,6 @@
 # Animated Sorter :recycle:
 
-## Description ::pencil:
+## Description :pencil:
 A mini project in python where a Bubble sort is animated in the terminal
 
 ## Quick start :rocket:
