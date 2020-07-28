@@ -10,6 +10,6 @@ A mini project in python where a Bubble sort is animated in the terminal
 
 2. Enter the commande : __python3 tri.py__
 
-## Example :book:
+## Example :sparkles:
 
 ![animated_sorter](img/animated-sorter.gif)
